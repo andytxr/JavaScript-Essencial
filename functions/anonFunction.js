@@ -28,4 +28,4 @@ const people = {
 
 }
 
-people.talk()
+people.talk();
